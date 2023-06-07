@@ -1,0 +1,1 @@
+VEHICULO:Piaggio;Liberty 2023;10000.0;123ABCDEF;5000.0;true;Moto;125

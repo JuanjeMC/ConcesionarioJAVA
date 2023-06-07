@@ -1,0 +1,1 @@
+VEHICULO:Toyota;Corolla;20000.0;456DEF;15000.0;true;Coche;5

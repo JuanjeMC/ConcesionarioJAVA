@@ -1,0 +1,1 @@
+VEHICULO:Ford;Ranger;30000.0;789GHI;20000.0;true;Camioneta;0.0

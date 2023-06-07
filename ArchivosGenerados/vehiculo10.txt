@@ -1,0 +1,1 @@
+VEHICULO:Mercedes;Sprinter;40000.0;ABC123;30000.0;true;Autocaravana;3

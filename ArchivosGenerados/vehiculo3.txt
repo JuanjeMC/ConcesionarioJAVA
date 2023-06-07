@@ -1,0 +1,1 @@
+VEHICULO:Piaggio;Liberty;10000.0;123ABCD;5000.0;false;Moto;500

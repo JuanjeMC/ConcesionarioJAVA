@@ -1,0 +1,1 @@
+VEHICULO:Ferrari;Maranello;20000.0;456DEFG;15000.0;false;Coche;5

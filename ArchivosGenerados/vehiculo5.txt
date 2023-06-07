@@ -1,0 +1,1 @@
+VEHICULO:Ford;Sprinter;40000.0;ABC1234;30000.0;false;Autocaravana;3

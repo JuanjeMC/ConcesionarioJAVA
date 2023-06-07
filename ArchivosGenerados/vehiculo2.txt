@@ -1,0 +1,1 @@
+VEHICULO:Lamborghini;Urus;30000.0;789GHIJ;20000.0;false;Camioneta;0.0
